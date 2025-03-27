@@ -1,1 +1,1 @@
-Welcome to java training
+Welcome to DevOps training
